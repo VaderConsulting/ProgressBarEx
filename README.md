@@ -18,6 +18,10 @@ Owner-drawn C# WinForms ProgressBarEx (community sample, not wyDay) with gradien
 
 Open `ProgressBarEx Demo.sln` in Visual Studio 2017 (or later) for the demo host. Open `ProgressBarEx/ProgressBarEx.sln` in Visual C# 2008 Express for the class library alone.
 
+## Requirements
+
+- Visual Studio 2008 to 2017, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `ProgressBarEx`). This is a working copy of a widely circulated community ProgressBarEx WinForms control (originally VB.NET), not wyDay's wyUpdate/Aero ProgressBarEx. Assembly metadata is the Visual Studio template default: title/product `ProgressBarEx` and `ProgressBarEx Demo`, empty company, copyright 2015. See `THIRD_PARTY_NOTICES.md`.
