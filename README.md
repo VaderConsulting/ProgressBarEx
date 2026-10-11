@@ -1,6 +1,6 @@
 # ProgressBarEx
 
-Owner-drawn C# WinForms ProgressBarEx (community sample, not wyDay) with gradient, rounded corners, and a demo host. The control paints a custom bar with BackgroundColor, ProgressColor, GradiantColor/GradiantPosition, optional percentage or caption text, image overlay, and horizontal or vertical direction. Originally a VB.NET sample (comments still mention the VB Project menu) converted to a C# class library plus designer host; this is Dave Robinson's Historical Dev working copy, not original VaderConsulting code.
+Owner-drawn C# WinForms ProgressBarEx (community sample, not wyDay) with gradient, rounded corners, and a demo host. The control paints a custom bar with BackgroundColor, ProgressColor, GradiantColor/GradiantPosition, optional percentage or caption text, image overlay, and horizontal or vertical direction. Originally a VB.NET sample (comments still mention the VB Project menu) converted to a C# class library plus designer host; this is Dave Robinson's Historical Dev working copy, not original Vader Consulting code.
 
 Working copy from my Historical Dev folder.
 
@@ -30,4 +30,4 @@ From my Historical Dev archive (folder `ProgressBarEx`). This is a working copy 
 
 ## License
 
-Keep the original author's terms for the control. VaderConsulting's packaging of this working copy does not relicense it as MIT. See `THIRD_PARTY_NOTICES.md`.
+Keep the original author's terms for the control. Vader Consulting's packaging of this working copy does not relicense it as MIT. See `THIRD_PARTY_NOTICES.md`.
